@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-history/static/css/main.d09b0095.css",
+    "main.js": "/react-history/static/js/main.b04401d5.js",
+    "index.html": "/react-history/index.html",
+    "main.d09b0095.css.map": "/react-history/static/css/main.d09b0095.css.map",
+    "main.b04401d5.js.map": "/react-history/static/js/main.b04401d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d09b0095.css",
+    "static/js/main.b04401d5.js"
+  ]
+}
